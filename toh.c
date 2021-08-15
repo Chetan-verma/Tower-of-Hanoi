@@ -6,7 +6,7 @@ int main(){
     scanf("%d",&Disc);
     if (Disc>15)
     {
-        printf("It will take lot of time in your so please don't try beyond 15: ");
+        printf("It will take lot of time in your so please don't try more thanS 15: ");
         return 0;
     }
     Move(Disc, 1, 3, 2);
